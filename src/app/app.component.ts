@@ -8,9 +8,9 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'Angular 2 CRUD operation with an Array';
   employees = [
-    {name:"Sikandar", position:"Programmer"},
-    {name:"Alex", position:"Designer"},
-    {name:"Maria", position:"Manager"}
+    {name:"Ana", position:"Programmer"},
+    {name:"Boban", position:"Designer"},
+    {name:"Milan", position:"Manager"}
   ];
   model:any={};
   model2:any={};
